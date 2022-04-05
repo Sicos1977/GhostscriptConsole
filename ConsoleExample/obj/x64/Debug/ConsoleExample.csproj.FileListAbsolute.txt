@@ -1,0 +1,11 @@
+C:\Kees\ConsoleExample\ConsoleExample\bin\x64\Debug\ConsoleExample.exe.config
+C:\Kees\ConsoleExample\ConsoleExample\bin\x64\Debug\ConsoleExample.exe
+C:\Kees\ConsoleExample\ConsoleExample\bin\x64\Debug\ConsoleExample.pdb
+C:\Kees\ConsoleExample\ConsoleExample\bin\x64\Debug\Ghostscript.NET.dll
+C:\Kees\ConsoleExample\ConsoleExample\bin\x64\Debug\Ghostscript.NET.xml
+C:\Kees\ConsoleExample\ConsoleExample\obj\x64\Debug\ConsoleExample.csproj.AssemblyReference.cache
+C:\Kees\ConsoleExample\ConsoleExample\obj\x64\Debug\ConsoleExample.csproj.SuggestedBindingRedirects.cache
+C:\Kees\ConsoleExample\ConsoleExample\obj\x64\Debug\ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Kees\ConsoleExample\ConsoleExample\obj\x64\Debug\ConsoleExample.csproj.CopyComplete
+C:\Kees\ConsoleExample\ConsoleExample\obj\x64\Debug\ConsoleExample.exe
+C:\Kees\ConsoleExample\ConsoleExample\obj\x64\Debug\ConsoleExample.pdb
