@@ -11,13 +11,6 @@ namespace ConsoleExample
         private static GSNET gsNet = new GSNET();
 
         #region GeneratePostScriptFileName
-        /// <summary>
-        /// Vervang ongeldige postscript karakters door geldige. Omdat postscript niet
-        /// rechtstreeks om kan gaan met unicode namen dienen we alle unicode karakters
-        /// octaal te encoderen
-        /// </summary>
-        /// <param name="fileName"></param>
-        /// <returns></returns>
         private static string GeneratePostScriptFileName(string fileName)
         {
             if (string.IsNullOrWhiteSpace(fileName))
@@ -67,12 +60,6 @@ namespace ConsoleExample
         #endregion
 
         #region GetPdfInfo
-        /// <summary>
-        /// Retourneert de informatie die aanwezig is in een PDF zoals;
-        /// Titel, auteur, onderwerp, etc...
-        /// </summary>
-        /// <param name="inputFile"></param>
-        /// <returns></returns>
         public static void GetPdfInfo(string inputFile)
         {
             var sb = new StringBuilder();
